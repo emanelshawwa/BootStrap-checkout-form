@@ -1,0 +1,36 @@
+.logoImg{
+    max-width: 72px;
+    max-height: 72px;
+}
+.headerContainer{
+    padding-top: 48px;
+}
+.formsContainer{
+    padding-top: 48px;
+}
+.body{
+    background-color: #f8f9fa;
+}
+.redeem{
+    border: 1px solid #ced4da;
+    background-color: white;
+    border-radius: 5px;
+}
+ul.list-group{
+    padding-bottom: 15px;
+}
+.footer{
+    padding-top: 100px;
+}
+.checkOutForm{
+    padding-top: 25px;
+    font-size: 32px;
+    font-weight: 500;
+}
+.headerParagraph{
+    font-size: 20px;
+    font-size: 300;
+}
+.mainDiv{
+    max-width: 1000px;
+}
